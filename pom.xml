@@ -27,12 +27,12 @@
 	</build>
 	<distributionManagement>
         <repository>
-        <id>nexus-re</id>
+        <id>nexus</id>
         <name>hello-world-war_release</name>
         <url>http://3.238.151.154:8081/repository/hello-world-war_release/</url>
         </repository>
         <snapshotRepository>
-        <id>nexus-ss</id>
+        <id>nexus</id>
         <name>hello-wprl-war_snapshot</name>
         <url>http://3.238.151.154:8081/repository/hello-wprl-war_snapshot/</url>
         </snapshotRepository>
