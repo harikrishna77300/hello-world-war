@@ -27,14 +27,14 @@
 	</build>
 	<distributionManagement>
         <repository>
-        <id>nexus</id>
-        <name>sameer</name>
-        <url>http://ec2-3-135-201-149.us-east-2.compute.amazonaws.com:8081/repository/sameer/</url>
+        <id>nexus-re</id>
+        <name>hello-world-war_release</name>
+        <url>http://3.238.151.154:8081/repository/hello-world-war_release/</url>
         </repository>
         <snapshotRepository>
-        <id>nexus</id>
-        <name>maven-snapshots</name>
-        <url>http://ec2-3-135-201-149.us-east-2.compute.amazonaws.com:8081/repository/maven-snapshots/</url>
+        <id>nexus-ss</id>
+        <name>hello-wprl-war_snapshot</name>
+        <url>http://3.238.151.154:8081/repository/hello-wprl-war_snapshot/</url>
         </snapshotRepository>
         </distributionManagement>
 	</project>
