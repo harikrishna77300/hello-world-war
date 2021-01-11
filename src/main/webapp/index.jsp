@@ -6,7 +6,7 @@
 		<br>
 		<h1>mohan creat thist</h1>
 		<br>
-		<h1>Sameer pady is hero for our gang</h1>
+		<h1>Rishi pady is hero for our gang</h1>
 		<br>
 		<h1>this is my pipeline</h1>
 </head>
